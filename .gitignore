@@ -32,3 +32,4 @@ coverage
 coverage.json
 typechain
 typechain-types
+tsconfig-dup.json
